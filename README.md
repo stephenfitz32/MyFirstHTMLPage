@@ -1,4 +1,4 @@
-## Welcome to GitHub Pages
+## Welcome to My First Github page
 
 You can use the [editor on GitHub](https://github.com/stephenfitz32/MyFirstHTMLPage/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
 
